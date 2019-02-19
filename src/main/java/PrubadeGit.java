@@ -10,7 +10,11 @@
  */
 public class PrubadeGit {
     
+    public void cargarLibro(){
     
+    
+    
+    }
     
     
 }
